@@ -1,6 +1,6 @@
 # Slack Clone v1.0
 
-Checkout the live demo <a href="https://slack-reactjsclone.web.app/">here</a>.
+Checkout the live demo <a href="https://slack-reactjsclone.web.app/ target="__blank">here</a>.
 
 ## How to install?
 
